@@ -1,0 +1,31 @@
+.div_A {
+    background-color: #04571d; 
+    width: 500px; 
+    height: 500px;
+    }
+
+    .div_B {
+    background-color: #fa0000; 
+    width: 50%; 
+    height: 50%;
+    }
+
+    .P_texto {
+    color: black; 
+    background-color: yellow; 
+    font-size: 25px; 
+    font-family: monospace; 
+    font-weight: bold;
+    }
+
+    .div_C {
+    width: 50%; 
+    height: 50vh; 
+    background-color: rgb(216, 41, 158);
+    }
+
+    .div_D {
+    width: 75vw; 
+    height: 50%; 
+    background-color: rgb(50, 125, 131);
+    }
